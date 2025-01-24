@@ -8,5 +8,6 @@ public class BankAccountApp {
         System.out.println("Current balance: " + myAccount.getBalance());
 
         // this is a comment
+        // true
     }
 }
